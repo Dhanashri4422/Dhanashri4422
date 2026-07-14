@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#07111f"/>
+    <stop offset="0.5" stop-color="#0f2454"/>
+    <stop offset="1" stop-color="#35136d"/>
+  </linearGradient>
+  <linearGradient id="accent1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+  <linearGradient id="accent2"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="310" rx="28" fill="url(#bg)"/>
+<circle cx="1100" cy="55" r="130" fill="#7c3aed" opacity=".12"><animate attributeName="r" values="115;140;115" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="90" cy="300" r="150" fill="#0ea5e9" opacity=".11"><animate attributeName="r" values="140;165;140" dur="6s" repeatCount="indefinite"/></circle>
+<text x="55" y="55" fill="#f8fafc" font-family="Arial, sans-serif" font-size="26" font-weight="700">RECRUITER SNAPSHOT</text>
+<text x="55" y="82" fill="#93c5fd" font-family="Arial, sans-serif" font-size="15">Backend engineering strengths at a glance</text>
+
+<g transform="translate(45 110)">
+  <rect width="250" height="145" rx="22" fill="#0b152c" stroke="url(#accent1)" stroke-width="2"/>
+  <text x="25" y="47" fill="#60a5fa" font-family="Arial" font-size="38" font-weight="800">2 YEARS</text>
+  <text x="25" y="82" fill="#f8fafc" font-family="Arial" font-size="18" font-weight="700">PROFESSIONAL EXPERIENCE</text>
+  <text x="25" y="112" fill="#94a3b8" font-family="Arial" font-size="14">Backend development &amp; support</text>
+  <circle cx="218" cy="26" r="8" fill="#38bdf8" filter="url(#glow)"><animate attributeName="opacity" values=".35;1;.35" dur="2s" repeatCount="indefinite"/></circle>
+</g>
+
+<g transform="translate(315 110)">
+  <rect width="250" height="145" rx="22" fill="#0b152c" stroke="url(#accent2)" stroke-width="2"/>
+  <text x="25" y="47" fill="#c4b5fd" font-family="Arial" font-size="27" font-weight="800">JAVA + SPRING</text>
+  <text x="25" y="82" fill="#f8fafc" font-family="Arial" font-size="18" font-weight="700">CORE BACKEND STACK</text>
+  <text x="25" y="112" fill="#94a3b8" font-family="Arial" font-size="14">Spring Boot • MVC • Maven</text>
+  <circle cx="218" cy="26" r="8" fill="#a78bfa" filter="url(#glow)"><animate attributeName="opacity" values="1;.35;1" dur="2.2s" repeatCount="indefinite"/></circle>
+</g>
+
+<g transform="translate(585 110)">
+  <rect width="250" height="145" rx="22" fill="#0b152c" stroke="url(#accent1)" stroke-width="2"/>
+  <text x="25" y="47" fill="#67e8f9" font-family="Arial" font-size="29" font-weight="800">REST APIs</text>
+  <text x="25" y="82" fill="#f8fafc" font-family="Arial" font-size="18" font-weight="700">DESIGN &amp; INTEGRATION</text>
+  <text x="25" y="112" fill="#94a3b8" font-family="Arial" font-size="14">Validation • Error handling</text>
+  <circle cx="218" cy="26" r="8" fill="#22d3ee" filter="url(#glow)"><animate attributeName="opacity" values=".4;1;.4" dur="1.8s" repeatCount="indefinite"/></circle>
+</g>
+
+<g transform="translate(855 110)">
+  <rect width="300" height="145" rx="22" fill="#0b152c" stroke="url(#accent2)" stroke-width="2"/>
+  <text x="25" y="47" fill="#c4b5fd" font-family="Arial" font-size="27" font-weight="800">JPA + MYSQL</text>
+  <text x="25" y="82" fill="#f8fafc" font-family="Arial" font-size="18" font-weight="700">DATA &amp; TRANSACTIONS</text>
+  <text x="25" y="112" fill="#94a3b8" font-family="Arial" font-size="14">Hibernate • SQL optimization</text>
+  <circle cx="268" cy="26" r="8" fill="#8b5cf6" filter="url(#glow)"><animate attributeName="opacity" values="1;.4;1" dur="2.4s" repeatCount="indefinite"/></circle>
+</g>
+</svg>

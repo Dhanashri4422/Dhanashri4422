@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+<defs>
+ <linearGradient id="g" x1="0" x2="1"><stop stop-color="#07111f"/><stop offset=".5" stop-color="#1d4ed8"/><stop offset="1" stop-color="#6d28d9"/></linearGradient>
+</defs>
+<rect width="1200" height="150" fill="url(#g)"/>
+<path d="M0 55 Q300 120 600 68 T1200 58 V150 H0Z" fill="#050816" opacity=".72">
+ <animate attributeName="d" dur="7s" repeatCount="indefinite"
+  values="M0 55 Q300 120 600 68 T1200 58 V150 H0Z;
+          M0 72 Q300 42 600 90 T1200 65 V150 H0Z;
+          M0 55 Q300 120 600 68 T1200 58 V150 H0Z"/>
+</path>
+<text x="600" y="55" text-anchor="middle" fill="#f8fafc" font-family="Arial" font-size="22" font-weight="700">BUILDING DEPENDABLE BACKEND SYSTEMS</text>
+<text x="600" y="88" text-anchor="middle" fill="#bfdbfe" font-family="Arial" font-size="15">One clean API at a time.</text>
+</svg>

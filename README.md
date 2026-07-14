@@ -1,104 +1,59 @@
-[Dhanashri4422_Premium_README.md](https://github.com/user-attachments/files/30000400/Dhanashri4422_Premium_README.md)
 <!--
-  GitHub Profile README for Dhanashri Gajare
-  Repository: Dhanashri4422/Dhanashri4422
+IMPORTANT:
+1. This file must be named exactly README.md.
+2. Keep it in the root of Dhanashri4422/Dhanashri4422.
+3. Do not upload this Markdown file as an attachment inside another README.
 -->
 
-<div align="center">
+<p align="center">
+  <img src="./assets/header.gif" width="100%" alt="Animated Dhanashri Gajare Java Backend Developer banner" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:7C3AED&height=245&section=header&text=Dhanashri%20Gajare&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20REST%20APIs%20%E2%80%A2%20MySQL&descAlignY=56&descSize=19" alt="Dhanashri Gajare banner" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Scalable+Java+%26+Spring+Boot+Services;Designing+Reliable+and+Maintainable+REST+APIs;Solving+Production+Issues+Through+Structured+Debugging;Focused+on+Clean+Architecture+and+Backend+Reliability" alt="Animated backend developer introduction" />
+  </a>
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=2563EB&center=true&vCenter=true&width=820&lines=2%2B+Years+of+Backend+Development+Experience;Building+Scalable+Java+%26+Spring+Boot+Services;Designing+Reliable+and+Maintainable+REST+APIs;Turning+Business+Requirements+into+Clean+Backend+Solutions" alt="Animated typing introduction" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhanashri-gajare-380b3222a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhanashri%20Gajare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dhanugajare2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Dhanashri4422">
+    <img src="https://img.shields.io/badge/GitHub-Dhanashri4422-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Dhanashri4422&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
+</p>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/dhanashri-gajare-380b3222a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Dhanashri%20Gajare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:dhanugajare2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/Dhanashri4422">
-  <img src="https://img.shields.io/badge/GitHub-Dhanashri4422-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Dhanashri4422&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile views" />
-
-</div>
-
----
+<p align="center">
+  <img src="./assets/recruiter-dashboard.svg" width="100%" alt="Recruiter snapshot for Dhanashri Gajare" />
+</p>
 
 ## 👩‍💻 About Me
 
-I am a **Java Backend Developer with 2+ years of professional experience** designing, developing, and maintaining backend applications using **Java, Spring Boot, Spring MVC, Hibernate, JPA, REST APIs, and MySQL**.
+I am a **Java Backend Developer with 2 years of professional experience** developing and supporting backend applications using **Java, Spring Boot, Spring MVC, Hibernate, JPA, REST APIs, and MySQL**.
 
-My work focuses on translating business requirements into dependable backend services, implementing validation and business logic, managing persistence layers, optimizing SQL operations, and troubleshooting production issues through logs and structured debugging.
+I focus on converting business requirements into maintainable backend services, implementing business logic and validation, managing persistence layers, optimizing database operations, and resolving production issues through logs and structured debugging.
 
-- 💼 **Current role:** Jr. Web Developer at Southco, Inc.
-- 🧱 **Architecture:** Controller–Service–Repository, MVC, and layered architecture
-- 🔌 **Backend focus:** REST API design, business logic, validation, and integrations
-- 🗄️ **Data layer:** Hibernate, JPA, MySQL, transaction management, and SQL optimization
-- 🛠️ **Engineering mindset:** Reliability, maintainability, clean code, and production stability
-- 🌱 **Currently strengthening:** System design, automated testing, CI/CD, and modern Spring practices
-- 🤝 **Career interest:** Java backend engineering and collaborative software projects
-
----
-
-## 🎯 Recruiter Snapshot
-
-<table>
-  <tr>
-    <td><b>Experience</b></td>
-    <td>2+ years in backend application development</td>
-  </tr>
-  <tr>
-    <td><b>Primary Stack</b></td>
-    <td>Java, Spring Boot, Hibernate/JPA, REST APIs, MySQL</td>
-  </tr>
-  <tr>
-    <td><b>Professional Strengths</b></td>
-    <td>API development, business logic, debugging, database operations, production support</td>
-  </tr>
-  <tr>
-    <td><b>Development Style</b></td>
-    <td>Layered architecture, reusable services, validation, exception handling, clean Git workflows</td>
-  </tr>
-  <tr>
-    <td><b>Location</b></td>
-    <td>Pune, Maharashtra, India</td>
-  </tr>
-</table>
+- 💼 Working as a **Jr. Web Developer at Southco, Inc.**
+- ⚙️ Developing backend services and RESTful APIs using **Java and Spring Boot**
+- 🧱 Applying **Controller–Service–Repository** and layered architecture
+- 🗄️ Working with **Hibernate, JPA, MySQL, transactions, and SQL optimization**
+- 🛠️ Supporting application stability through debugging and production issue analysis
+- 🌱 Strengthening my skills in **system design, automated testing, and CI/CD**
 
 ---
 
-## 🚀 What I Bring to a Development Team
+## 🏗️ Backend Engineering Workflow
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Backend Engineering</h3>
-      Build maintainable Java and Spring Boot services with clear separation of concerns and reusable business logic.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔌 API Development</h3>
-      Design RESTful endpoints, validation workflows, request/response models, and frontend integration contracts.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗄️ Data & Transactions</h3>
-      Work with Hibernate, JPA, MySQL, query optimization, and transaction consistency for reliable data operations.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ Production Reliability</h3>
-      Investigate logs, debug application issues, improve error handling, and support stable production services.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/backend-flow.gif" width="100%" alt="Animated Java backend architecture workflow" />
+</p>
 
 ---
 
@@ -106,24 +61,29 @@ My work focuses on translating business requirements into dependable backend ser
 
 <div align="center">
 
-### Core Development
+### Backend & Database
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,git,github,postman,jenkins,idea,vscode&perline=10&theme=dark" alt="Core technology icons" />
-</a>
+<img src="https://skillicons.dev/icons?i=java,spring,maven,mysql&theme=dark" alt="Java Spring Maven MySQL" />
 
-### Backend, Database & Web
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC" />
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
 <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="JPA" />
-<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+<img src="https://img.shields.io/badge/REST%20APIs-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Transaction%20Management-7C3AED?style=for-the-badge" alt="Transaction Management" />
+
+### Tools & Web
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,jenkins,idea,vscode,html,css,js&theme=dark" alt="Development tools" />
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Apache Tomcat" />
 <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Debugging-0F172A?style=for-the-badge&logo=bugatti&logoColor=white" alt="Debugging" />
+<img src="https://img.shields.io/badge/Production%20Support-1D4ED8?style=for-the-badge" alt="Production Support" />
 
 </div>
 
@@ -135,56 +95,45 @@ My work focuses on translating business requirements into dependable backend ser
 **July 2024 – Present · Pune, India**
 
 - Develop and maintain backend services using **Java and Spring Boot**.
-- Design and implement **RESTful APIs** for frontend integration and internal business modules.
+- Design and implement **RESTful APIs** for frontend integration and internal modules.
 - Implement business logic, validation rules, and API request/response workflows.
-- Manage database operations using **Hibernate and JPA**.
-- Optimize SQL queries and persistence operations for performance and reliability.
+- Manage persistence operations using **Hibernate and JPA**.
+- Optimize SQL queries and database operations for performance and reliability.
 - Investigate production issues through application logs and structured debugging.
-- Collaborate through Git-based development, peer review, and controlled code changes.
+- Collaborate through Git-based version control and code review workflows.
 
 ---
 
-## 📌 Featured Backend Projects
+## 🚀 Featured Backend Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💰 Payroll Management System</h3>
-      <p><b>Java · Spring Boot · Hibernate · MySQL · REST APIs</b></p>
-      <ul>
-        <li>Designed backend workflows for salary, tax, and employee-benefit processing.</li>
-        <li>Implemented CRUD operations and payroll calculation logic.</li>
-        <li>Created REST endpoints for payroll processing and employee records.</li>
-        <li>Structured the application using Controller, Service, and Repository layers.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💳 Transaction Management System</h3>
-      <p><b>Spring Boot · Hibernate · MySQL · Transaction Management</b></p>
-      <ul>
-        <li>Developed APIs for deposits, withdrawals, and fund transfers.</li>
-        <li>Implemented validation and centralized exception handling.</li>
-        <li>Applied Spring transaction management for data consistency.</li>
-        <li>Designed clear service and persistence-layer responsibilities.</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 Payroll Management System
+
+**Java · Spring Boot · Hibernate · MySQL · REST APIs**
+
+- Developed backend workflows for employee salary, tax, and benefit processing.
+- Implemented CRUD operations and payroll calculation logic.
+- Designed REST APIs for payroll processing.
+- Applied Controller, Service, and Repository layers.
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 Transaction Management System
+
+**Spring Boot · Hibernate · MySQL**
+
+- Developed APIs for deposits, withdrawals, and transfers.
+- Implemented validation and exception handling.
+- Applied Spring transaction management for consistency.
+- Structured clear service and persistence responsibilities.
+
+</td>
+</tr>
 </table>
-
----
-
-## 🏗️ How I Structure Backend Solutions
-
-```mermaid
-flowchart LR
-    A[Business Requirement] --> B[REST API Contract]
-    B --> C[Controller Layer]
-    C --> D[Service & Business Logic]
-    D --> E[Validation & Exception Handling]
-    E --> F[Repository / JPA]
-    F --> G[(MySQL Database)]
-    G --> H[Testing, Logs & Optimization]
-```
 
 ---
 
@@ -201,59 +150,35 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Analytics
+## 🔥 GitHub Contribution Streak
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Dhanashri4422&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Dhanashri4422&show_icons=true&theme=default&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhanashri4422&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Dhanashri4422&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Dhanashri4422&theme=default&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Dhanashri4422&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanashri4422&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanashri4422&layout=compact&theme=default&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanashri4422&layout=compact&theme=transparent&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Most used languages" />
-</picture>
-
-</div>
-
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Dhanashri4422&theme=tokyonight&hide_border=true&border_radius=14" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Dhanashri4422&theme=default&hide_border=true&border_radius=14" />
+    <img src="https://streak-stats.demolab.com?user=Dhanashri4422&theme=tokyonight&hide_border=true&border_radius=14" alt="GitHub contribution streak" />
+  </picture>
+</p>
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dhanashri4422&theme=tokyo-night&hide_border=true&area=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dhanashri4422&theme=github-light&hide_border=true&area=true" />
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanashri4422&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-</picture>
-
-</div>
-
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dhanashri4422&theme=tokyo-night&hide_border=true&area=true&radius=14&custom_title=Dhanashri%20Gajare%27s%20Contribution%20Activity" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Dhanashri4422&theme=github-light&hide_border=true&area=true&radius=14&custom_title=Dhanashri%20Gajare%27s%20Contribution%20Activity" />
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanashri4422&theme=tokyo-night&hide_border=true&area=true&radius=14&custom_title=Dhanashri%20Gajare%27s%20Contribution%20Activity" alt="GitHub contribution activity graph" />
+  </picture>
+</p>
 
 ## 🐍 Contribution Animation
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhanashri4422/Dhanashri4422/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhanashri4422/Dhanashri4422/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/Dhanashri4422/Dhanashri4422/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhanashri4422/Dhanashri4422/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhanashri4422/Dhanashri4422/output/github-contribution-grid-snake.svg" />
+    <img width="98%" alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Dhanashri4422/Dhanashri4422/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
@@ -267,21 +192,19 @@ flowchart LR
 
 ## 🤝 Let’s Connect
 
-<div align="center">
+<p align="center">
+  I enjoy building backend services that are reliable, maintainable, and easy for development teams to extend.
+</p>
 
-I enjoy building backend services that are reliable, maintainable, and easy for teams to extend.
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhanashri-gajare-380b3222a/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:dhanugajare2@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/dhanashri-gajare-380b3222a/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-</a>
-<a href="mailto:dhanugajare2@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
-</a>
-
-<br/><br/>
-
-<b>Building dependable backend systems, one clean API at a time.</b>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:1D4ED8,100:0F172A&height=120&section=footer" alt="Footer banner" />
-
-</div>
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Backend developer footer" />
+</p>
